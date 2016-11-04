@@ -1,0 +1,8 @@
+{
+  "name": "access",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::099880275749:role/access_lambda_function",
+  "environment": {}
+}

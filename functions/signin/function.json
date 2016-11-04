@@ -1,0 +1,7 @@
+{
+  "description": "4tius auth service",
+  "environment": {
+    "API_URL": "https://spry.auth0.com/passwordless/start",
+    "CLIENT_ID": "p11TuGjcHG2gKR9E86axniHhs91LtBhI"
+  }
+}
